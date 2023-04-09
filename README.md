@@ -1,6 +1,7 @@
 # Crypto Arbitage
 
 This project aims to help high-tech investment firms identify and capitalize on arbitrage opportunities in Bitcoin and other cryptocurrencies. By leveraging the power of Pandas, we can analyze real-time cryptocurrency data, identify price discrepancies between exchanges, and make informed trading decisions. Our solution provides a practical and effective tool to increase profitability by taking advantage of simultaneous price dislocations in cryptocurrency markets.
+
 ---
 
 ## Technologies
